@@ -1,0 +1,56 @@
+main_category,category,product,price
+data,Credit Card Data,Cloned Mastercard with PIN,15
+data,Credit Card Data,Cloned American Express with PIN,35
+data,Credit Card Data,Cloned VISA with PIN,25
+data,Credit Card Data,"Credit card details, account balance up to $1000",12
+data,Credit Card Data,"Credit card details, account balance up to $5000",20
+data,Credit Card Data,"Stolen online banking logins, minimum $100 on account",35
+data,Credit Card Data,"Stolen online banking logins, minimum $2000 on account",65
+data,Credit Card Data,Walmart account with credit card attached,10
+data,Payment processing services,"Stolen PayPal account details, minimum $100",198.56
+data,Payment processing services,"PayPal transfer from stolen account, $1000 – $3000",320.39
+data,Payment processing services,"PayPal transfers from stolen account, $3000+",155.94
+data,Payment processing services,"Western Union transfer from stolen account, above $1000",98.15
+counterfeits,Forged documents,"US driving license, average quality",70
+counterfeits,Forged documents,"US driving license, high quality",550
+counterfeits,Forged documents,Auto insurance card,70
+counterfeits,Forged documents,AAA emergency road service membership card,70
+counterfeits,Forged documents,Wells Fargo bank statement,25
+counterfeits,Forged documents,Wells Fargo bank statement with transactions,80
+counterfeits,Forged documents,Rutgers State University student ID,70
+counterfeits,Forged documents,"US, Canada, or Europe passport",1500
+counterfeits,Forged documents,Europe national ID card,550
+data,Social Media,Hacked Facebook account,74.5
+data,Social Media,Hacked Instagram account,55.45
+data,Social Media,Hacked Twitter account,49
+data,Social Media,Hacked Gmail account,155.73
+data,Social Media,Instagram followers x 1000,7
+data,Social Media,Spotify followers x 1000,3
+data,Social Media,Twitch followers x 1000,6
+data,Social Media,Tick Tok followers x 1000,15
+data,Social Media,LinkedIn followers x 1000,10
+data,Social Media,LinkedIn company page followers x 1000,10
+data,Social Media,Pinterest followers x 1000,5
+data,Social Media,Soundcloud plays x 1000,1
+data,Social Media,Daily Motion views x 1000,2
+data,Social Media,Twitter retweets x 1000,25
+data,Social Media,Instagram likes x 1000,6
+services,Malware,"Global low quality, slow speed, low success rate x 1000",70
+services,Malware,"Europe low quality, slow speed, low success rate x 1000",300
+services,Malware,"USA, CA, UK, AU low quality, slow speed, low success rate x 1000",800
+services,Malware,"Global med quality, 70% success rate x 1000",80
+services,Malware,"Europe med quality, 70% success rate x 1000",700
+services,Malware,"USA only med quality, 70% success rate x 1000",900
+services,Malware,"USA, CA, UK, AU med quality, 70% success rate x 1000",1300
+services,Malware,Europe fresh high quality x 1000,2300
+services,Malware,Europe aged high quality x 1000,1400
+services,Malware,USA high quality x 1000,1700
+services,Malware,CA high quality x 1000,1500
+services,Malware,UK high quality x 1000,2000
+services,Malware,Android x 1000,600
+services,Malware,Premium x 1000,6000
+services,DDoS Attack,"Unprotected website, 10-50k requests per second, 1 hour",10
+services,DDoS Attack,"Unprotected website, 10-50k requests per second, 24 hours",60
+services,DDoS Attack,"Unprotected website, 10-50k requests per second, 1 week",400
+services,DDoS Attack,"Unprotected website, 10-50k requests per second, 1 month",800
+services,DDoS Attack,"Premium protected website, 20-50k requests per second, multiple elite proxies, 24 hours",200

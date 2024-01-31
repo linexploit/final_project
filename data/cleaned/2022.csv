@@ -1,0 +1,119 @@
+main_category,category,product,price
+data,Credit Card Data,"Credit card details, account balance up to 5,000",120
+data,Credit Card Data,"Credit card details, account balance up to 1,000",80
+data,Credit Card Data,"Stolen online banking logins, minimum  2,000 on account",65
+data,Credit Card Data,Israel hacked credit card details with CVV,25
+data,Credit Card Data,Hacked (Global) credit card details with CVV,15
+data,Credit Card Data,Spain hacked credit card details with CVV,25
+data,Credit Card Data,Cloned American Express with PIN,25
+data,Credit Card Data,Canada hacked credit card details with CVV,18
+data,Credit Card Data,Australia hacked credit card details w/ CVV,23
+data,Credit Card Data,Cloned Mastercard with PIN,20
+data,Credit Card Data,Cloned VISA with PIN,20
+data,Credit Card Data,"Stolen online banking logins, minimum 100 on account",35
+data,Credit Card Data,Australia hacked credit card details with CVV,30
+data,Credit Card Data,Walmart account with credit card attached,10
+data,Credit Card Data,USA hacked credit card details with CVV,17
+data,Credit Card Data,UK hacked credit card details with CVV,20
+data,Payment processing services,"PayPal transfer from stolen account, $1,000 – $3,000 balances",45
+data,Payment processing services,Cashapp verified account,800
+data,Payment processing services,"Stolen PayPal account details, minimum $1,000 balances",20
+data,Payment processing services,Stolen UK fully verified Skrill account details,120
+data,Payment processing services,50 Hacked PayPal account logins,150
+data,Payment processing services,Hacked PerfectMoney account,110
+data,Payment processing services,"PayPal transfers from stolen account, $100-$1,000 balance",15
+data,Payment processing services,Movo.Cash Login,14
+data,Payment processing services,Hacked Western Union Account,25
+data,Payment processing services,"Stolen PayPal account details, minimum $100 balances",10
+data,Payment processing services,"Western Union transfer from stolen account, $1,000+ balances",30
+data,Payment processing services,"Stolen PayPal account details, no balance",15
+data,Payment processing services,Verified Stripe account with payment gateway,1000
+data,Payment processing services,Hacked Weststein Card account,710
+data,Payment processing services,Hacked TransferGo account,510
+data,Crypto Accounts,Kraken verified account,250
+data,Crypto Accounts,Cex.io verified account,170
+data,Crypto Accounts,Hacked Coinbase verified account,120
+data,Crypto Accounts,Coinfield.com verified account,120
+data,Crypto Accounts,USA verified LocalBitcoins account,120
+data,Crypto Accounts,Blockchain.com verified account,90
+data,Crypto Accounts,Crypto.com verified account,250
+data,Crypto Accounts,Binance verified account,260
+data,Crypto Accounts,Xcoins verified account,320
+data,Crypto Accounts,Bitit.io verified account,400
+data,Crypto Accounts,Bit2me verified account,120
+data,Social Media,Hacked Facebook account,45
+data,Social Media,Hacked Instagram account,40
+data,Social Media,Hacked Twitter account,25
+data,Social Media,Hacked Gmail account,65
+data,Social Media,Instagram followers x 1000,4
+data,Social Media,Spotify followers x 1000,1
+data,Social Media,Twitch followers x 1000,4
+data,Social Media,LinkedIn company page followers x 1000,10
+data,Social Media,Pinterest followers x 1000,3
+data,Social Media,Soundcloud plays x 1000,1
+data,Social Media,Twitter retweets x 1000,20
+data,Social Media,Instagram likes x 1000,5
+services,Hacked Services,"Netflix account, 1-year subscription",25
+services,Hacked Services,Bet365 account,40
+services,Hacked Services,Kaspersky account,5
+services,Hacked Services,NBA League Pass,7
+services,Hacked Services,Various adult site accounts,5
+services,Hacked Services,Canva Pro yearly,6
+services,Hacked Services,CNBC Pro,3
+services,Hacked Services,Netflix 4K 1 year,4
+services,Hacked Services,HBO,4
+services,Hacked Services,Orange TVy,4
+services,Hacked Services,Hulu,5
+services,Hacked Services,Uber hacked account,15
+services,Hacked Services,Uber driver hacked account,35
+counterfeits,Forged Documents – Scans,Utility bill templates,25
+counterfeits,Forged Documents – Scans,New York driver’s license,70
+counterfeits,Forged Documents – Scans,US business cheque templates,10
+counterfeits,Forged Documents – Scans,Russian passport scan,100
+counterfeits,Forged Documents – Scans,USA selfie with holding ID,120
+counterfeits,Forged Documents – Scans,Minnesota driver’s license,150
+counterfeits,Forged Documents – Scans,NSW (Australia) driver’s license,150
+counterfeits,Forged Documents – Scans,Alberta CA driver’s License (scan),165
+counterfeits,Forged Documents – Physical,Maltese Passport,6500
+counterfeits,Forged Documents – Physical,Latvian National ID,160
+counterfeits,Forged Documents – Physical,Netherlands Passport,3800
+counterfeits,Forged Documents – Physical,Poland Passport,3800
+counterfeits,Forged Documents – Physical,French Passport,3800
+counterfeits,Forged Documents – Physical,Various European Union passports,3800
+counterfeits,Forged Documents – Physical,Delaware ID,150
+counterfeits,Forged Documents – Physical,Indiana ID,150
+counterfeits,Forged Documents – Physical,Latvian National ID,500
+counterfeits,Forged Documents – Physical,Montana ID,150
+counterfeits,Forged Documents – Physical,Nevada ID,160
+counterfeits,Forged Documents – Physical,Texas ID,150
+counterfeits,Forged Documents – Physical,Fake US Green Card,160
+counterfeits,Forged Documents – Physical,New Jersey drivers license,160
+counterfeits,Forged Documents – Physical,New Jersey drivers license,160
+counterfeits,Forged Documents – Physical,Louisiana ID,150
+counterfeits,Forged Documents – Physical,Utah ID,150
+counterfeits,Forged Documents – Physical,European Union National ID (avg.),160
+counterfeits,Forged Documents – Physical,US driver’s license (avg.),150
+counterfeits,Forged Documents – Physical,Lithuanian passport,3800
+data,Email Database Dumps,10 million USA email addresses,120
+data,Email Database Dumps,600k New Zealand emails,110
+data,Email Database Dumps,"2,4 million Canada emails",100
+services,Malware,"Europe fresh, high-quality per 1,000 installs",1800
+services,Malware,"UK high-quality per 1,000 installs",1800
+services,Malware,"Europe low-quality, slow-speed, low success rate, per 1,000 installs",120
+services,Malware,"USA, CA, UK, AU med quality, 70% success rate per 1,000 installs",1200
+services,Malware,"CA high-quality, per 1,000 installs",1200
+services,Malware,"USA high-quality, per 1,000 installs",1700
+services,Malware,"USA, CA, UK, AU low quality, slow speed, low success rate x 1000 installs",800
+services,Malware,"Europe, aged, high-quality, per 1,000 installs",1100
+services,Malware,"USA only, medium-quality, 70% success rate, per 1,000 installs",900
+services,Malware,"Europe, medium-quality, 70% success rate, per 1,000 installs",450
+services,Malware,"Global, low quality, slow-speed, low success rate, per 1,000 installs",45
+services,Malware,"Global, medium-quality, 70% success rate, per 1,000",115
+services,Malware,"Android OS per 1,000 installs",950
+services,Malware,"Premium-quality, per 1,000",5500
+services,DDOS Attacks,"Unprotected website, 10-50k requests per second, 1 month",850
+services,DDOS Attacks,"Unprotected website, 10-50k requests per second, 1 week",450
+services,DDOS Attacks,"Europe, low-quality, slow speed, low success rate per 1, 000 requests",300
+services,DDOS Attacks,"Unprotected website, 10-50k requests per second, 1 hour",10
+services,DDOS Attacks,"Unprotected website, 10-50k requests per second, 24 hours",45
+services,DDOS Attacks,"Premium protected website, 20-50k requests per second, multiple elite proxies, 24 hours",200

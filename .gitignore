@@ -1,0 +1,4 @@
+venv_project/
+requirements*in
+__pycache__/
+.ipynb_checkpoints
