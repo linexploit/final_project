@@ -38,16 +38,6 @@ Exploratory Data Analysis was conducted to provide initial insights into the dat
 ## Machine Learning Models
 In this project, we utilized two primary machine learning models for predicting phishing emails: Logistic Regression and Naive Bayes. Both models were chosen for their simplicity, interpretability, and effectiveness in text classification tasks. However, it's worth noting that neither model achieved perfect accuracy, likely due to the inherent complexity and variability of phishing attempts. (check notebooks)
 
-## Results and Interpretation
-Key findings about the impact and trends of ransomware include:
-- The number of cyber attacks exploded after COVID.
-- The number of ransomware attacks and their severity increased.
-- The most impacted sectors are: Academic, Government, and Technology.
-- Companies tend to refuse to pay, but it highly depends on their sizes.
-- Small and medium-sized companies prefer to pay, while larger ones have backups or do not communicate on this topic for reputational purposes.
-- Ransomware is here to stay, is a lucrative and organized business. Applying personal "cyber hygiene" is necessary to prevent such attacks.
-
-
 ## Limitations and Further Research
 The data used in this project primarily comes from transactions conducted between 2014 and 2015. While this provides valuable insights into the state of dark web markets during that period, it may not fully represent the current landscape. Therefore, further research could involve collecting more recent data, possibly through more complex methods such as web scraping from Tor.
 Another limitation is the computational resources available for training the machine learning models. The models used in this project, while effective, are not perfect due to these constraints. Future work could explore more advanced models or techniques to improve prediction accuracy.
